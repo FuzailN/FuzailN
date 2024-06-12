@@ -4,14 +4,6 @@
 
 I'm a passionate DevOps Engineer with experience in managing and automating infrastructure, CI/CD pipelines, and ensuring the reliability and scalability of services.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuzailN&theme=blue-green)](https://git.io/streak-stats)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### 🛠️ Tools and Technologies
 
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
@@ -24,16 +16,12 @@ I'm a passionate DevOps Engineer with experience in managing and automating infr
 ### 📈 GitHub Stats
 
 ![Fuzail's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuzailN&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuzailN&theme=blue-green)](https://git.io/streak-stats)
 
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/fuzailn/))
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ### 🧑‍💻 Projects
 
@@ -50,6 +38,8 @@ I'm a passionate DevOps Engineer with experience in managing and automating infr
 ### 💬 Ask me about
 
 - Anything related to DevOps and Cloud Infrastructure
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
