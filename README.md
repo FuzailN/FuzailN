@@ -27,8 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuzailn&show_icons=true&locale=en" alt="fuzailn" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzailN&layout=compact&theme=dark)
-
 ---
 
 ### 🧑‍💻 Projects
