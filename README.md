@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuzail Ahmed</h1>
-<h2 align="center">🚀 DevOps Engineer</h2>h2>
+<h2 align="center">🚀 DevOps Engineer</h2>
 <h3 align="center">I'm a passionate DevOps Engineer with experience in managing and automating infrastructure, CI/CD pipelines, and ensuring the reliability and scalability of services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuzailn&label=Profile%20views&color=0e75b6&style=flat" alt="fuzailn" /> </p>
