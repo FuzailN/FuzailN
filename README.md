@@ -8,7 +8,7 @@ I'm a passionate DevOps Engineer with experience in managing and automating infr
 
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
 - **CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Cloud Providers**: AWS, Azure, Google Cloud Platform
+- **Cloud Providers**: AWS, Azure
 - **Containers and Orchestration**: Docker, Kubernetes
 - **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
 - **Scripting and Automation**: Python, Bash
