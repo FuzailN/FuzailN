@@ -4,6 +4,14 @@
 
 I'm a passionate DevOps Engineer with experience in managing and automating infrastructure, CI/CD pipelines, and ensuring the reliability and scalability of services.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuzailN&theme=blue-green)](https://git.io/streak-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### 🛠️ Tools and Technologies
 
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
@@ -29,8 +37,10 @@ I'm a passionate DevOps Engineer with experience in managing and automating infr
 
 ### 🧑‍💻 Projects
 
-- [Project 1](https://github.com/fuzailahmed/project1): Description of project 1.
-- [Project 2](https://github.com/fuzailahmed/project2): Description of project 2.
+- [Kubernetes Cluster Setup](https://github.com/fuzailahmed/kubernetes-cluster-setup): Automated setup of a Kubernetes cluster using Terraform and Ansible.
+- [CI/CD Pipeline with Jenkins](https://github.com/fuzailahmed/cicd-pipeline-jenkins): End-to-end CI/CD pipeline using Jenkins, integrating Docker and Kubernetes.
+- [AWS Infrastructure Automation](https://github.com/fuzailahmed/aws-infrastructure-automation): Infrastructure automation on AWS using Terraform, including VPC, EC2, and RDS setup.
+- [Monitoring with Prometheus and Grafana](https://github.com/fuzailahmed/monitoring-prometheus-grafana): Monitoring setup using Prometheus and Grafana for Kubernetes clusters.
 
 ### 🌱 I’m currently learning
 
@@ -43,4 +53,4 @@ I'm a passionate DevOps Engineer with experience in managing and automating infr
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/fuzailN)
+![Profile views](https://gpvc.arturio.dev/FuzailN)
